@@ -6,7 +6,6 @@
 
 
 
-
 function confirmEnding(str, target) {
     //split string to Array
     var word = str.split(" ");
